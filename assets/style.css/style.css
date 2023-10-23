@@ -46,14 +46,14 @@ body {
     font-family: 'Helvetica Neue Roman';
 }
 
-.wrapper{
+.wrapper {
    position: relative;
    background-color: rgb(red, green, blue);
    margin: 4rem 4rem 0 4rem;
    padding: 2rem;
 }
 
-.kicker{
+.kicker {
     display: block;
     margin-bottom: 0.5rem;
 }
@@ -112,7 +112,7 @@ footer {
     justify-content: space-between;
 }
 
-.right-inner > div{
+.right-inner > div {
     display: flex;
     flex-direction: column;
 }
@@ -147,16 +147,16 @@ logos {
     border: solid 1px black;
 }
 
-.logos img{
+.logos img {
     display: block;
     height: 2rem;
     margin: auto;
     padding: 0.5rem;
 }
 
-.logos img:first-of-type{
+.logos img:first-of-type {
     padding-right: 0.75rem;
-    border-right: solid;
+    border-right: solid 1px black;
 }
 
 ,copyright {
