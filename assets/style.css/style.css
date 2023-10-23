@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Sabotage';
+    font-weight: 400
+    font-style: normal;
+    src: url('sabotage.woff2') format('woff2');
+    src: url('sabotage.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Ultra Light Condensed';
+    font-weight: 100;
+    font-style: normal;
+    src: url('HelveticaNeueLTStdUltLtCn.woff2') format('woff2');
+    src: url('HelveticaNeueLTStdUltLtCn.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue thin Condensed';
+    font-weight: 200;
+    font-style: normal;
+    src: url('HelveticaNeueLTStd-ThCn.woff2') format('woff2');
+    src: url('HelveticaNeueLtstd-ThCn.woff') format('woff');
+}
+
+@font-face {
+    font-family: Helvetica Neue 'Thin';
+    font-weight: 300;
+    font-style: normal;
+    src; url('HelveticaNeueLTStd-Th.woff2') format('woff2');
+    src: url('HelveticaNeueLTStd-Th.woff') format('woff"');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Roman';
+    font-weight: 400;
+    font-style: normal;
+    src: url('HelveticaNeueLTStd-Roman.woff2') format('woff2');
+    src: url('HelveticaNeueLTStd-Roman.woff') format('woff');
+}
